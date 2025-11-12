@@ -3,6 +3,7 @@
 Projeto Tela de Login (JavaFX)
 
 Este é um projeto de aplicação desktop em JavaFX que implementa um sistema completo de autenticação de usuários, incluindo cadastro, login, persistência de sessão, segurança de senha e um painel de administrador.
+
 **- Funcionalidades Principais**
 
 * **Cadastro de Usuários:** Permite que novos usuários se registrem fornecendo Nome, Email, Senha e Data de Nascimento.
