@@ -90,4 +90,3 @@ Na primeira vez que você rodar a aplicação, o sistema criará automaticamente
 * **MySQL** (para o banco de dados)
 * **BCrypt** (para hashing de senhas)
 
-(Fim do README.md)
